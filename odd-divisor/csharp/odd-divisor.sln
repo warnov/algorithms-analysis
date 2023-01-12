@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "odd-divisor", "odd-divisor\odd-divisor.csproj", "{4E3CB359-F7EE-44DE-BE7A-A5E5C88F471F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E3CB359-F7EE-44DE-BE7A-A5E5C88F471F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E3CB359-F7EE-44DE-BE7A-A5E5C88F471F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E3CB359-F7EE-44DE-BE7A-A5E5C88F471F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E3CB359-F7EE-44DE-BE7A-A5E5C88F471F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5514DC62-2801-4073-BC32-C98A63C85DFB}
+	EndGlobalSection
+EndGlobal
